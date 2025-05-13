@@ -1,11 +1,11 @@
 body {
-  margin: 0;
   font-family: Arial, sans-serif;
   background-color: bisque;
 }
 
-.header {
-  text-align: center;
+.header 
+{
+  text-align :center;
   text-decoration: underline;
   text-transform: capitalize;
   font-size: 50px;
@@ -18,14 +18,11 @@ body {
 
 .portfolio {
   display: flex;
-  justify-content: space-between;
   align-items: center;
   padding: 50px;
-  background-color: white;
-  box-shadow: 0 0 10px rgba(0,0,0,0.1);
+  background-color:burlywood;
   max-width: 900px;
   margin: 20px auto;
-  border-radius: 8px;
 }
 
 .portfolio-text {
@@ -39,12 +36,12 @@ body {
   font-family: cursive;
   font-weight: 500;
   text-decoration: underline;
-  color: salmon;
+  color:brown;
   margin-bottom: 20px;
 }
 
 .portfolio-text p {
-  text-align: justify;
+  text-align:center;
   color: rgb(75, 66, 125);
   font-size: 15px;
   font-family: cursive;
