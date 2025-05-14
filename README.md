@@ -1,6 +1,6 @@
 # Pixel5 - Dhee Coding Lab Project
 
-Welcome to **Pixel5**, a collaborative space where creativity meets code, and innovation flourishes. This project represents the combined efforts of a passionate team, each contributing their unique talents to build something extraordinary.
+Welcome to **Pixel5**, a collaborative space where creativity meets code, and innovation flourishes. This project represents the combined efforts of a passionate team, each contributing their unique talents to build something extraordinary..
 
 **Team Members:**
 - **Neha Kousar C**
